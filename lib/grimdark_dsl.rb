@@ -1,4 +1,4 @@
-require "grimdark_dsl/version"
+require 'grimdark_dsl/version'
 
 module GrimdarkDsl
   class Error < StandardError; end
